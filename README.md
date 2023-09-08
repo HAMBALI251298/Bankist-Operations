@@ -23,7 +23,7 @@ Here are the login credentials for accessing the bank functionality. All the dat
 - Password: 111
 
 ### Login
-bankist-operations.vercel.app
+https://bankist-operations.vercel.app/
 
 ### Account Two
 - Username: ej
