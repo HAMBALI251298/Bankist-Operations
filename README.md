@@ -20,7 +20,7 @@ Here are the login credentials for accessing the bank functionality. All the dat
 
 ### Account One
 - Username: bt
-- Password: 111
+- Password: 1111
 
 ### Login
 https://bankist-operations.vercel.app/
